@@ -21,7 +21,7 @@ Then run the following commands to install the dependencies and libraries:
 ## Run Project
 To run the project, use python command:
 
-        python run
+        python main.py
 
 ## Output
 To see the output after running the project, navigate to output directory and play the `result.mp4`
